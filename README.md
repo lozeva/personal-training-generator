@@ -95,7 +95,3 @@ forge-app/
 - **Styling:** CSS-in-JS (inline styles)
 - **Fonts:** Sora + DM Sans (Google Fonts)
 - **Deployment:** Vercel
-
-## License
-
-MIT
